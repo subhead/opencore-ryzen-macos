@@ -1363,7 +1363,7 @@
 				<key>UIScale</key>
 				<data>AQ==</data>
 				<key>DefaultBackgroundColor</key>
-				<data>v7+/AA==</data>
+				<data>AAAAAA==</data>
 			</dict>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
@@ -1372,8 +1372,10 @@
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
+				<key>SystemAudioVolume</key>
+				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 swd_panic=1 alcid=1 -lilubetaall -alcbeta unfairgva=1 agdpmod=pikera  </string>
+				<string>keepsyms=1 swd_panic=1 alcid=1 -lilubetaall -alcbeta unfairgva=1 agdpmod=pikera revpatch=sbvmm</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
